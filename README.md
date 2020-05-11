@@ -1,8 +1,10 @@
 # Java_Assignment
 
 ## Calculator ([Calculator.java](https://github.com/avi-01/Java_Assignment/blob/master/Calculator/Calculator.java))
+
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="360" src="https://github.com/avi-01/Java_Assignment/blob/master/Calculator/1.png?raw=true">
+  <img width="360" src="https://github.com/avi-01/Java_Assignment/blob/master/Calculator/2.png?raw=true">
 </p>
 
 
